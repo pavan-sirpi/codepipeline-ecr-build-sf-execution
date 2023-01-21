@@ -5,18 +5,18 @@
     },
     {
         "ParameterKey": "GitHubBranch",
-        "ParameterValue": "master"
+        "ParameterValue": "main"
       },
       {
         "ParameterKey": "GitHubToken",
-        "ParameterValue": ""
+        "ParameterValue": "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"
       },
       {
         "ParameterKey": "GitHubUser",
-        "ParameterValue": ""
+        "ParameterValue": "pavan-sirpi"
       },
       {
         "ParameterKey": "MlOpsStepFunctionArn",
-        "ParameterValue": ""
+        "ParameterValue": "arn:aws:states:us-east-1:920644990528:stateMachine:MLOpsStepFunction-920644990528"
       }
 ]
