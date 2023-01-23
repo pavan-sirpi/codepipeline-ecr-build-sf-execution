@@ -9,7 +9,7 @@
       },
       {
         "ParameterKey": "GitHubToken",
-        "ParameterValue": "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"
+        "ParameterValue": "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"
       },
       {
         "ParameterKey": "GitHubUser",
@@ -20,3 +20,5 @@
         "ParameterValue": "arn:aws:states:us-east-1:920644990528:stateMachine:MLOpsStepFunction-920644990528"
       }
     ]
+
+    
